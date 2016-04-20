@@ -1,0 +1,8 @@
+Database name :	db622538758
+Host name :	localhost
+Port :	3306
+User name :	dbo622538758
+password :Imark123#@
+Description :	onedrive
+Version :	MySQL5.5
+
